@@ -13,7 +13,7 @@ public class NumeroPar {
                 System.out.println("El número " + numero + " es impar.");
             }
         } catch (NumberFormatException e) {
-            System.out.println("Error: ingrese un número entero.");
+            System.out.println("Error: ingrese un número entero.");9
 		
 	}
 	}
